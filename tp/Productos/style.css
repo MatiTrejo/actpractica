@@ -1,0 +1,12 @@
+.producto {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    float: left;
+}
+.producto img {
+    width: 100%;
+    border-radius: 5px;
+}
